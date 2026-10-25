@@ -1,0 +1,21 @@
+## Interface: 120105
+## Title: ViewerLog |cff9955ff[Infobulle]|r
+## Notes: Infobulle d'objet ViewerLog : possession multi-personnages (sacs, banque, courrier, bataillon, guildes).
+## Author: SoLoup_ever
+## Version: 1.0.0
+## Dependencies: ViewerLog_Items
+## IconTexture: Interface\AddOns\ViewerLog\logo_vl.blp
+
+## Category-enUS: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Предметы
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
+
+Hook.lua

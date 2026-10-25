@@ -1,0 +1,33 @@
+## Interface: 120105
+## Title: ViewerLog |cff9955ff[Monnaie]|r
+## Notes: Scan des monnaies et de l'or pour ViewerLog
+## Author: SoLoup_ever
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\ViewerLog/logo_vl.blp
+## RequiredDeps: ViewerLog
+
+## Category-enUS: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Предметы
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
+
+## ── LOCALISATION ──────────────────────────────────────────────────
+locales\Locales_frFR.lua
+locales\Locales_enUS.lua
+
+## ── SCANNER ───────────────────────────────────────────────────────
+scanner\Currency.lua
+scanner\Gold.lua
+
+## ── INFOBULLES ────────────────────────────────────────────────────
+tooltip\Hook.lua
+
+## ── INIT — Chargé en dernier ────────────────────────────────────────
+Init.lua

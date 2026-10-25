@@ -1,0 +1,37 @@
+## Interface: 120105
+## Title: ViewerLog |cff9955ff[Objets]|r
+## Notes: Scan des objets (sacs, banque, bataillon, courrier, enchères) et index d'infobulle pour ViewerLog
+## Author: SoLoup_ever
+## Version: 1.0.0
+## RequiredDeps: ViewerLog
+## IconTexture: Interface\AddOns\ViewerLog\logo_vl.blp
+## Category-enUS: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Предметы
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
+
+Link.lua
+
+## ── SCANNERS ──────────────────────────────────────────────────────
+scanner\Container.lua
+scanner\Bags.lua
+scanner\Bank.lua
+scanner\WarbandBank.lua
+scanner\Mail.lua
+scanner\Auctions.lua
+
+## ── INDEX INFOBULLE ───────────────────────────────────────────────
+index\Index.lua
+
+## ── API ───────────────────────────────────────────────────────────
+api\API.lua
+
+## ── INIT — Chargé en dernier ─────────────────────────────────────
+Init.lua
