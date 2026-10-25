@@ -17,6 +17,9 @@
 ## Category-zhCN: 物品栏
 ## Category-zhTW: 物品欄
 
+## X-Curse-Project-ID: 1766304
+## X-Wago-ID: 
+
 Link.lua
 
 ## ── SCANNERS ──────────────────────────────────────────────────────
