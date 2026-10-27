@@ -18,7 +18,7 @@
 ## Category-zhTW: 物品欄
 
 ## X-Curse-Project-ID: 1766304
-## X-Wago-ID: 
+## X-Wago-ID: EGPaLjN1
 
 Link.lua
 
