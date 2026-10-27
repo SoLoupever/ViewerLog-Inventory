@@ -1,6 +1,8 @@
-[![](https://media.forgecdn.net/attachments/description/1766304/description_b4469e24-0c86-4bdd-ac57-f69619e5f90f.png)](https://github.com/SoLoupever/ViewerLog-Inventory)    ![](https://media.forgecdn.net/attachments/description/1766304/description_ddf07b44-bd8b-4453-bb51-f51328954f18.png)  
+    ![](https://media.forgecdn.net/attachments/description/1766304/description_e7fec318-50b4-4a59-9298-222d1e3833b3.png)  ![](https://media.forgecdn.net/attachments/description/1766304/description_d253d739-c7b6-4d36-abf7-0f1d982ce3fd.png)  
   
-[![](https://media.forgecdn.net/attachments/description/1766304/description_c5effd72-ed10-49b6-8b8b-b2a09d139dc4.png)](https://discord.gg/2gfEKGAT46)
+    ![](https://media.forgecdn.net/attachments/description/1766304/description_ee039de4-83ab-4ece-b39a-e4c92bdffea8.png)  
+  
+  
 
 ***
 
