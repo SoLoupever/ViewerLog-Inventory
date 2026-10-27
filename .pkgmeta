@@ -1,9 +1,9 @@
 package-as: ViewerLog_Items
 
 move-folders:
-  ViewerLog_Guild: ViewerLog_Guild
-  ViewerLog_Monnaie: ViewerLog_Monnaie
-  ViewerLog_Tooltip: ViewerLog_Tooltip
+  ViewerLog_Items/ViewerLog_Guild: ViewerLog_Guild
+  ViewerLog_Items/ViewerLog_Monnaie: ViewerLog_Monnaie
+  ViewerLog_Items/ViewerLog_Tooltip: ViewerLog_Tooltip
 
 
 ignore:
